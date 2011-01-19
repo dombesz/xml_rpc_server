@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<Table colCount="5" name="diakok">
+    <tableInfo>
+        <columnInfo>
+            <column count="1">
+                <name>Id</name>
+                <type>INT</type>
+                <length>11</length>
+                <null>0</null>
+                <autoinc>true</autoinc>
+            </column>
+            <column count="2">
+                <name>Knev</name>
+                <type>VARCHAR</type>
+                <length>20</length>
+                <null>0</null>
+                <autoinc>false</autoinc>
+            </column>
+            <column count="3">
+                <name>Vnev</name>
+                <type>VARCHAR</type>
+                <length>20</length>
+                <null>0</null>
+                <autoinc>false</autoinc>
+            </column>
+            <column count="4">
+                <name>Cim</name>
+                <type>VARCHAR</type>
+                <length>20</length>
+                <null>0</null>
+                <autoinc>false</autoinc>
+            </column>
+            <column count="5">
+                <name>Szdatum</name>
+                <type>DATE</type>
+                <length>10</length>
+                <null>0</null>
+                <autoinc>false</autoinc>
+            </column>
+        </columnInfo>
+        <pkeyInfo>
+            <primarykey count="1">Id</primarykey>
+        </pkeyInfo>
+        <indexInfo>
+            <index count="1">Id</index>
+        </indexInfo>
+    </tableInfo>
+    <Rows rowCount="11">
+        <Row count="1">
+            <Id>1</Id>
+            <Knev>Á</Knev>
+            <Vnev>?</Vnev>
+            <Cim>É</Cim>
+            <Szdatum>2008-03-11</Szdatum>
+        </Row>
+        <Row count="2">
+            <Id>2</Id>
+            <Knev>1</Knev>
+            <Vnev>alma</Vnev>
+            <Cim>alma</Cim>
+            <Szdatum>2008-06-05</Szdatum>
+        </Row>
+        <Row count="3">
+            <Id>4</Id>
+            <Knev>1</Knev>
+            <Vnev>Elemer</Vnev>
+            <Cim>Szenamezo</Cim>
+            <Szdatum>2008-03-15</Szdatum>
+        </Row>
+        <Row count="4">
+            <Id>5</Id>
+            <Knev>AA12</Knev>
+            <Vnev>Andras</Vnev>
+            <Cim>Szenamezo</Cim>
+            <Szdatum>2008-03-15</Szdatum>
+        </Row>
+        <Row count="5">
+            <Id>7</Id>
+            <Knev>Alma</Knev>
+            <Vnev>Andras</Vnev>
+            <Cim>Szenamezo</Cim>
+            <Szdatum>2008-03-15</Szdatum>
+        </Row>
+        <Row count="6">
+            <Id>10</Id>
+            <Knev>Kiss</Knev>
+            <Vnev>Andras</Vnev>
+            <Cim>Szenamezo</Cim>
+            <Szdatum>2008-03-15</Szdatum>
+        </Row>
+        <Row count="7">
+            <Id>11</Id>
+            <Knev>Kiss</Knev>
+            <Vnev>Andras</Vnev>
+            <Cim>Szenamezo</Cim>
+            <Szdatum>2008-03-15</Szdatum>
+        </Row>
+        <Row count="8">
+            <Id>12</Id>
+            <Knev>Kiss</Knev>
+            <Vnev>Andras</Vnev>
+            <Cim>Szenamezo</Cim>
+            <Szdatum>2008-03-15</Szdatum>
+        </Row>
+        <Row count="9">
+            <Id>13</Id>
+            <Knev>Kiss</Knev>
+            <Vnev>Andras</Vnev>
+            <Cim>Szenamezo</Cim>
+            <Szdatum>2008-03-15</Szdatum>
+        </Row>
+        <Row count="10">
+            <Id>14</Id>
+            <Knev>Kiss</Knev>
+            <Vnev>Andras</Vnev>
+            <Cim>Szenamezo</Cim>
+            <Szdatum>2008-03-15</Szdatum>
+        </Row>
+        <Row count="11">
+            <Id>15</Id>
+            <Knev>Nagy</Knev>
+            <Vnev>Pista</Vnev>
+            <Cim>Szenamezo</Cim>
+            <Szdatum>2008-03-15</Szdatum>
+        </Row>
+    </Rows>
+</Table>
